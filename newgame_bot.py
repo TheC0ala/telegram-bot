@@ -6,7 +6,7 @@ class GuessGame:
     random_number = 0
     number_of_tries = 0
 
-TOKEN = '1255638994:AAG3mUlBd8lN1MsGsg6TOwvUAQUhdBnlSHU'
+TOKEN = '1631866881:AAENC5BPy-E7k1w9mrzvsnhamM3ilrR-040'
 bot = telebot.TeleBot(TOKEN)
 
 
